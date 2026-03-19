@@ -1,2 +1,3 @@
-# micro-analytics-dashboard-p2ea
-Analytics dashboard for modern development workflows
+# Micro Analytics Dashboard P2Ea
+
+A analytics dashboard for modern development workflows.
